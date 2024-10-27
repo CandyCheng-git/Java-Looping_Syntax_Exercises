@@ -13,6 +13,6 @@ public class Main {
                 z += x;
             }
         }
-        System.out.println(z); //
+        System.out.println(z);
     }
 }
